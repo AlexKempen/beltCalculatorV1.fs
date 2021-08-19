@@ -1,5 +1,5 @@
-# frcBelt.fs
-This is my first ever piece of code. 
+# beltCalculatorV1.fs
+This is my first ever piece of code, written during the summer before my freshman year of college.
 The language used is FeatureScript, which is a design language created by Onshape for working with parameteric models. 
 The purpose of this code is to create belts automatically based on user selections and to also add custom 3D printable pulleys if desired. 
 The full project, including revision history and example usage, is publically avaiable on onshape here:
